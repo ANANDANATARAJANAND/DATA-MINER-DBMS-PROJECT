@@ -61,7 +61,20 @@ python payroll.py
 
 1. After running, a local server link will appear in the terminal (usually `http://127.0.0.1:5000/`)
 2. Click on the link or copy-paste it into your browser to view the application
+3.  Default User Credentials hardcode 
 
+USERNAME :- user
+
+PASSWORD :-  ADMIN@123
+
+- not changeable please note it down
+
+---
+
+Requirements
+
+- Python 3.x
+- Flask (You can install it using `pip install flask`)
 ---
 
 Requirements
